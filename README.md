@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<img align="right" src="https://user-images.githubusercontent.com/13929394/124369702-2e259080-dc45-11eb-8e73-f8ec988caf25.PNG" alt="Tux" width=350px/>
+
+Life's too short to learn how to draw decently.
+
+I'm focused on learning Linux fundamentals, but always applying it to fun things in automation.
+
+Occasionally, if you find a random repository of C or Java here, it's because graduation forced me to study it. Just kidding, C is awesome.
+
+
 <!--
 **sbrnmorales/sbrnmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
